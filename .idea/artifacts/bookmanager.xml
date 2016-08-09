@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookmanager">
+    <output-path>$PROJECT_DIR$/out/artifacts/bookmanager</output-path>
+    <root id="archive" name="bookmanager.war" />
+  </artifact>
+</component>
